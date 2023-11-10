@@ -98,9 +98,17 @@ html, body{
     height: 9vw;
     /* background-color: red; */
     overflow: hidden;
+    position: relative;
+}
+
+#home-left .elem h1:nth-child(1){
+    top: 0;
 }
 
 #home-left .elem h1{
+    position: absolute;
+    top: 100%;
+    left: 0;
     line-height: 0.9;
     font-family: "kajiro";
     color: white;
