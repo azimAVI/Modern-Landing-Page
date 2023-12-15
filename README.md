@@ -18,12 +18,3 @@ The Modern Landing Page Project is a visually stunning website built using GSAP,
 ## Demo
 
 [View Project Demo](https://drive.google.com/file/d/1uaN_D9NDWrWbK_-VuCsOhhOXjlxhOwcX/view?usp=drive_link)
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/modern-landing-page-project.git
-   ```
-
